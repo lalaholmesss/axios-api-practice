@@ -1,6 +1,6 @@
 ### In this repo I practice using API's in React
 
-Mix of different fun API's and webpages :D
+Mix of different fun API's :D
 
 First API is an [API with Kanye West quotes](https://kanye.rest/) XD 
 
