@@ -1,8 +1,7 @@
-# React + Vite
+### In this repo I practice using API's in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mix of different fun API's and webpages :D
 
-Currently, two official plugins are available:
+First API is an [API with Kanye West quotes](https://kanye.rest/) XD 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ You can view the webpage in this [live link](https://axios-api-practice-j2406f50t-lalimova-beueduazs-projects.vercel.app/)
